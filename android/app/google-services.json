@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645325348182",
+    "firebase_url": "https://dpj-android-zack-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dpj-android-zack",
+    "storage_bucket": "dpj-android-zack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645325348182:android:44c3cb23f14af881e94af7",
+        "android_client_info": {
+          "package_name": "com.dpj001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645325348182-9tqhe6var3gbsofa2q4ubuen7mnevrn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwXhpPZkmb60nUjesoN9xdWaM11eE-OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645325348182-9tqhe6var3gbsofa2q4ubuen7mnevrn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
